@@ -1,0 +1,39 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.h1 header{
+    text-align: center;
+    
+}
+
+header{
+    padding: 10px;
+    background-color: green;
+}
+
+#nav{
+    border: 5px solid blue;
+    width: 300px ;
+}
+
+.Home{
+    color: red;
+}
+
+.Project{
+    color: white;
+}
+
+.Contact{
+    color: rgb(11, 242, 69);
+}
+
+.a-width{
+    width: 6px;
+    padding: 5px;
+    border: 2px solid greenyellow;
+}
